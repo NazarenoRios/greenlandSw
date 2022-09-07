@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "name": "greenlandsw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html -o css/reducido.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
